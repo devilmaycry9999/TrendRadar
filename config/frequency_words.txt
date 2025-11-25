@@ -1,5 +1,7 @@
-胖东来
-于东来
+Stable Diffusion
+ComfyUI
+LiblibAI
+lovart
 
 DeepSeek
 梁文锋
@@ -65,6 +67,7 @@ AMD
 google
 gemini
 deepmind
+veo
 
 chatgpt
 openai
@@ -81,6 +84,7 @@ ios
 ai
 !gai
 人工智能
+aigc
 
 自动驾驶
 
